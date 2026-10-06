@@ -1,0 +1,9 @@
+{
+    "name": "first-plugin",
+    "plugins": [
+        {
+            "name": "web-implementation",
+            "source": "./plugins/web-implementation"
+        }
+    ]
+}
