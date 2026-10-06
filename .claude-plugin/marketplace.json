@@ -1,9 +1,13 @@
 {
-    "name": "first-plugin",
-    "plugins": [
-        {
-            "name": "web-implementation",
-            "source": "./plugins/web-implementation"
-        }
-    ]
+  "name": "plugins-marketplace",
+  "description": "Custom plugins marketplace for Antigravity & Claude Code workflows",
+  "owner": "Nijanthan",
+  "plugins": [
+    {
+      "name": "web-implementation",
+      "description": "Comprehensive plugin for designing, building, auditing, and optimizing modern web applications.",
+      "source": "./plugins/web-implementation",
+      "version": "1.0.0"
+    }
+  ]
 }
